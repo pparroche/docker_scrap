@@ -1,0 +1,272 @@
+1631603754150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; InfoPath.2; MS-RTC LM 8)" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled52X9u"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631603754706	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled52X9u/search.json.mozlz4", (void 0)))
+1631603757445	Marionette	INFO	Listening on port 34643
+1631603757581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631603813244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileadK8Uo"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631603814184	Marionette	INFO	Marionette enabled
+1631603816300	Marionette	INFO	Stopped listening on port 34643
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileadK8Uo/search.json.mozlz4", (void 0)))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631603817988	Marionette	INFO	Listening on port 34421
+1631603818069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631603859635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; sv-SE) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZwq3Pq"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631603860851	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZwq3Pq/search.json.mozlz4", (void 0)))
+1631603863825	Marionette	INFO	Stopped listening on port 34421
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631603865416	Marionette	INFO	Listening on port 33577
+1631603865611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631603955552	Marionette	INFO	Stopped listening on port 33577
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631603975434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.14 (KHTML, like Gecko) Chrome/24.0.1292.0 Safari/537.14" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel13RJq"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631603977139	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel13RJq/search.json.mozlz4", (void 0)))
+1631603983797	Marionette	INFO	Listening on port 44553
+1631603983994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 367))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle30 (resource://devtools/server/actors/page-style.js:367:24)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle30 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle30 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: chrome://browser/content/nsContextMenu.js, line 1326: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle30 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle30 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+1631604165434	Marionette	INFO	Stopped listening on port 44553
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631604269168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5AhIlo"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631604269676	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5AhIlo/search.json.mozlz4", (void 0)))
+1631604271684	Marionette	INFO	Listening on port 41163
+1631604271752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631604294326	Marionette	INFO	Stopped listening on port 41163
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631604332666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1500.55 Safari/537.36" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLud809"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631604333226	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLud809/search.json.mozlz4", (void 0)))
+1631604335202	Marionette	INFO	Listening on port 39769
+1631604335259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631604366166	Marionette	INFO	Stopped listening on port 39769
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631604738052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAi3sMe"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631604738353	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAi3sMe/search.json.mozlz4", (void 0)))
+1631604739557	Marionette	INFO	Listening on port 33129
+1631604739587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1631605103281	Marionette	INFO	Stopped listening on port 33129
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631605115134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.15 (KHTML, like Gecko) Chrome/24.0.1295.0 Safari/537.15" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefD96Vq"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631605115425	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefD96Vq/search.json.mozlz4", (void 0)))
+1631605116592	Marionette	INFO	Listening on port 45715
+1631605116679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631605170454	Marionette	INFO	Stopped listening on port 45715
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631605175403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7AqhDP"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631605175689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7AqhDP/search.json.mozlz4", (void 0)))
+1631605176862	Marionette	INFO	Listening on port 33179
+1631605176938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1631605396579	Marionette	INFO	Stopped listening on port 33179
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631605398679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWuHMlE"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631605398991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWuHMlE/search.json.mozlz4", (void 0)))
+1631605400236	Marionette	INFO	Listening on port 36673
+1631605400318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631605515807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuVKOPV"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631605516098	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuVKOPV/search.json.mozlz4", (void 0)))
+1631605517631	Marionette	INFO	Listening on port 34817
+1631605517648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1631605521519	Marionette	INFO	Stopped listening on port 36673
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631605563848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZsAZ2V"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631605564148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZsAZ2V/search.json.mozlz4", (void 0)))
+1631605565572	Marionette	INFO	Listening on port 44077
+1631605565621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631605567839	Marionette	INFO	Stopped listening on port 34817
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1631605628155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejb1dH7"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631605628436	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejb1dH7/search.json.mozlz4", (void 0)))
+1631605629569	Marionette	INFO	Listening on port 40829
+1631605629596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631605632204	Marionette	INFO	Stopped listening on port 44077
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1631605752737	Marionette	INFO	Stopped listening on port 40829
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631605753882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20130401 Firefox/31.0" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej4W5pB"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631605754176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej4W5pB/search.json.mozlz4", (void 0)))
+1631605755731	Marionette	INFO	Listening on port 36569
+1631605755821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1631605959619	Marionette	INFO	Stopped listening on port 36569
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631606287419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegbqR4V"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631606287718	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegbqR4V/search.json.mozlz4", (void 0)))
+1631606288856	Marionette	INFO	Listening on port 44307
+1631606289016	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1631606408171	Marionette	INFO	Stopped listening on port 44307
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631606411205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegEjJu5"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631606411509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegEjJu5/search.json.mozlz4", (void 0)))
+1631606412651	Marionette	INFO	Listening on port 40841
+1631606412745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1631606584907	Marionette	INFO	Stopped listening on port 40841
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631606594602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:28.0) Gecko/20100101  Firefox/28.0" "--window-size=1920,1080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUQCHZf"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1631606594890	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUQCHZf/search.json.mozlz4", (void 0)))
+1631606595990	Marionette	INFO	Listening on port 39877
+1631606596033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1631607214580	Marionette	INFO	Stopped listening on port 39877

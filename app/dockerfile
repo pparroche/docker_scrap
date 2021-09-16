@@ -1,0 +1,17 @@
+FROM selenium/standalone-chrome
+
+USER root
+
+WORKDIR /app
+
+COPY . .
+
+RUN apt-get update && apt-get install python3-distutils -y
+RUN apt-get install -y xvfb
+RUN apt-get install -y chromium-browser
+RUN wget https://bootstrap.pypa.io/get-pip.py
+RUN python3 get-pip.py
+
+RUN python3 -m pip install -r requirements.txt
+
+CMD ["python3", "main.py", "java", "js", "python", "css"]
